@@ -4,7 +4,7 @@
 #有关说明，请参见https://docs . Microsoft . com/en-us/azure/app-service/quick start-nodejs？tabs = linux & pivots =开发-环境-cli
 #
 #要配置此工作流:
-#
+
 # 1.为您的Azure Web应用下载发布配置文件。您可以从Azure门户中您的Web应用的概述页面下载该文件。
 #了解更多信息:https://docs . Microsoft . com/en-us/azure/app-service/deploy-github-actions？tabs = applevel #生成-部署-凭证
 #
